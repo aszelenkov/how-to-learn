@@ -1,0 +1,14 @@
+.table__text {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+.table__text:last-of-type {
+  margin: 0;
+  padding: 0;
+}

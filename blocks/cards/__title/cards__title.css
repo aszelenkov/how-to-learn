@@ -1,0 +1,10 @@
+.cards__title {
+  margin: 0;
+  padding: 0;
+  margin-top: 43px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  list-style-type: none;
+}
