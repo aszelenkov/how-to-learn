@@ -1,7 +1,0 @@
-{
-    "editor.fontSize": 16,
-    "workbench.colorTheme": "Monokai",
-    "workbench.fontAliasing": "antialiased",
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
-    "workbench.editor.decorations.colors": true
-}

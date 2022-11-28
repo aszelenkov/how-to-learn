@@ -1,9 +1,10 @@
 .resources__link {
   margin: 0;
   padding: 0;
+  display: flex;
+  transition: .7s linear;
 }
 
 .resources__link:hover {
-  transition: .7s linear;
   opacity: .6;
 }
